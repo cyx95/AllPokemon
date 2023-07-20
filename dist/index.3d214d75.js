@@ -27166,7 +27166,7 @@ function App() {
     const [allPokemons, setAllPokemons] = (0, _react.useState)([]);
     (0, _react.useEffect)(()=>{
         fetch(pokemonApi).then((res)=>res.json()).then((data)=>{
-            setAllPokemons(data);
+            setAllPokemons(data.results);
         });
     }, []);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27177,20 +27177,35 @@ function App() {
             }, void 0, false, {
                 fileName: "App.js",
                 lineNumber: 19,
-                columnNumber: 9
+                columnNumber: 7
             }, this),
             allPokemons.map((pokemon)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Card), {
-                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Card).Img, {
-                        src: pokemon.url
-                    }, void 0, false, {
-                        fileName: "App.js",
-                        lineNumber: 25,
-                        columnNumber: 17
-                    }, this)
-                }, void 0, false, {
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Card).Img, {
+                            src: pokemon.url
+                        }, void 0, false, {
+                            fileName: "App.js",
+                            lineNumber: 22,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Card).Body, {
+                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Card).Title, {
+                                children: pokemon.name
+                            }, void 0, false, {
+                                fileName: "App.js",
+                                lineNumber: 24,
+                                columnNumber: 13
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "App.js",
+                            lineNumber: 23,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
                     fileName: "App.js",
-                    lineNumber: 24,
-                    columnNumber: 13
+                    lineNumber: 21,
+                    columnNumber: 9
                 }, this))
         ]
     }, void 0, true, {
