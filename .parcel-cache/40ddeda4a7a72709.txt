@@ -1,8 +1,9 @@
-8682
-51/home/yingxin/AllPokemon/dist/index.3d214d75.js.map1689884516227221828 0
-52/home/yingxin/AllPokemon/dist/index.1303bb05.css.map1689884516089221824 0
-29/home/yingxin/AllPokemon/dist1689884516230221828 1
-35/home/yingxin/AllPokemon/styles.css1689881432178134776 0
+8685
+35/home/yingxin/AllPokemon/components1690475943377187411 1
+51/home/yingxin/AllPokemon/dist/index.3d214d75.js.map1690476167248193726 0
+52/home/yingxin/AllPokemon/dist/index.1303bb05.css.map1690475722511181169 0
+29/home/yingxin/AllPokemon/dist1690476167251193727 1
+35/home/yingxin/AllPokemon/styles.css1689885487119249236 0
 33/home/yingxin/AllPokemon/index.js1689881884549147531 0
 55/home/yingxin/AllPokemon/node_modules/process/.eslintrc1689884514922221791 0
 54/home/yingxin/AllPokemon/node_modules/process/index.js1689884514921221791 0
@@ -786,6 +787,7 @@
 123/home/yingxin/AllPokemon/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/restructure/2-initialMergeRuleset.js1689883387105189958 0
 98/home/yingxin/AllPokemon/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/restructure1689883387321189964 1
 86/home/yingxin/AllPokemon/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib1689883387319189964 1
+50/home/yingxin/AllPokemon/components/PokemonList.js1690475764073182334 0
 90/home/yingxin/AllPokemon/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/LICENSE1689883387074189957 0
 98/home/yingxin/AllPokemon/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/README.md1689883387229189961 0
 101/home/yingxin/AllPokemon/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/package.json1689883387193189960 0
@@ -1609,7 +1611,7 @@
 80/home/yingxin/AllPokemon/node_modules/css-select/node_modules/domutils/readme.md1689883387280189962 0
 85/home/yingxin/AllPokemon/node_modules/@parcel/core/test/fixtures/plugins/node_modules1689883393217190128 1
 80/home/yingxin/AllPokemon/node_modules/@parcel/core/test/fixtures/parcel/index.js1689883393216190128 0
-40/home/yingxin/AllPokemon/dist/index.html1689884516085221824 0
+40/home/yingxin/AllPokemon/dist/index.html1690475722502181169 0
 108/home/yingxin/AllPokemon/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/package.json1689883393400190133 0
 108/home/yingxin/AllPokemon/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/src/index.js1689883393216190128 0
 95/home/yingxin/AllPokemon/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file1689883393400190133 1
@@ -1879,6 +1881,7 @@
 87/home/yingxin/AllPokemon/node_modules/css-tree/lib/syntax/node/PseudoElementSelector.js1689883387530189969 0
 100/home/yingxin/AllPokemon/node_modules/csso/node_modules/css-tree/cjs/syntax/node/DeclarationList.cjs1689883387290189963 0
 76/home/yingxin/AllPokemon/node_modules/css-tree/lib/syntax/node/Percentage.js1689883387528189969 0
+46/home/yingxin/AllPokemon/components/MySquad.js1690476166973193719 0
 77/home/yingxin/AllPokemon/node_modules/css-tree/lib/syntax/node/Parentheses.js1689883387522189969 0
 74/home/yingxin/AllPokemon/node_modules/css-tree/lib/syntax/node/Operator.js1689883387521189969 0
 72/home/yingxin/AllPokemon/node_modules/css-tree/lib/syntax/node/Number.js1689883387518189969 0
@@ -2824,7 +2827,7 @@
 69/home/yingxin/AllPokemon/node_modules/caniuse-lite/data/regions/ZW.js1689883387931189981 0
 69/home/yingxin/AllPokemon/node_modules/bootstrap/scss/_containers.scss1689881216812128690 0
 89/home/yingxin/AllPokemon/node_modules/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map1689881216673128686 0
-48/home/yingxin/AllPokemon/dist/index.1303bb05.css1689884516087221824 0
+48/home/yingxin/AllPokemon/dist/index.1303bb05.css1690475722510181169 0
 61/home/yingxin/AllPokemon/node_modules/react-bootstrap/Popover1689881216724128688 1
 81/home/yingxin/AllPokemon/node_modules/bootstrap/scss/helpers/_stretched-link.scss1689881216824128690 0
 87/home/yingxin/AllPokemon/node_modules/@parcel/hash/parcel-hash.linux-arm-gnueabihf.node1689883389698190030 0
@@ -2984,7 +2987,7 @@
 73/home/yingxin/AllPokemon/node_modules/dom-helpers/cjs/querySelectorAll.js1689881216500128681 0
 72/home/yingxin/AllPokemon/node_modules/bootstrap/dist/js/bootstrap.min.js1689881216596128684 0
 84/home/yingxin/AllPokemon/node_modules/@babel/runtime/helpers/esm/isNativeFunction.js1689881216544128683 0
-47/home/yingxin/AllPokemon/dist/index.3d214d75.js1689884516212221827 0
+47/home/yingxin/AllPokemon/dist/index.3d214d75.js1690476167233193726 0
 68/home/yingxin/AllPokemon/node_modules/bootstrap/dist/js/bootstrap.js1689881216592128684 0
 76/home/yingxin/AllPokemon/node_modules/bootstrap/dist/js/bootstrap.esm.min.js1689881216587128684 0
 79/home/yingxin/AllPokemon/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js1689881216578128684 0
@@ -6315,7 +6318,7 @@
 79/home/yingxin/AllPokemon/node_modules/@popperjs/core/lib/utils/debounce.js.flow1689881216655128686 0
 96/home/yingxin/AllPokemon/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules1689883393316190131 1
 80/home/yingxin/AllPokemon/node_modules/@popperjs/core/lib/utils/detectOverflow.js1689881216656128686 0
-24/home/yingxin/AllPokemon1689884516076221823 1
+24/home/yingxin/AllPokemon1690475587645177382 1
 70/home/yingxin/AllPokemon/node_modules/update-browserslist-db/README.md1689883387113189958 0
 85/home/yingxin/AllPokemon/node_modules/@popperjs/core/lib/utils/detectOverflow.js.flow1689881216656128686 0
 79/home/yingxin/AllPokemon/node_modules/react-bootstrap/ToastContext/package.json1689881216730128688 0
@@ -7175,7 +7178,7 @@
 87/home/yingxin/AllPokemon/node_modules/@swc/helpers/src/_initializer_define_property.mjs1689881216710128687 0
 86/home/yingxin/AllPokemon/node_modules/@swc/helpers/src/_initializer_warning_helper.mjs1689881216710128687 0
 83/home/yingxin/AllPokemon/node_modules/@swc/helpers/src/_interop_require_default.mjs1689881216711128687 0
-31/home/yingxin/AllPokemon/App.js1689882944814177465 0
+31/home/yingxin/AllPokemon/App.js1690476069827190976 0
 77/home/yingxin/AllPokemon/node_modules/csso/node_modules/css-tree/dist/data.js1689883387482189968 0
 87/home/yingxin/AllPokemon/node_modules/@restart/ui/esm/mergeOptionsWithPopperConfig.d.ts1689881216842128691 0
 87/home/yingxin/AllPokemon/node_modules/@swc/helpers/src/_is_native_reflect_construct.mjs1689881216711128687 0
